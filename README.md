@@ -52,10 +52,14 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.jeremyhybrd.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jeremyhybrd.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jeremy-hybrd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeremy%20Hybrd-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/jeremy_hybrd"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Jeremy%20Hybrd-blue?style=flat-square&logo=Twitter"></a>
+<a href="https://www.facebook.com/jeremyhybrd"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Jeremy%20Hybrd-blue?style=flat-square&logo=Facebook"></a>
+<a href="https://www.instagram.com/jeremy_hybrd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jeremy_hybrd_-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.youtube.com/@jeremyhybrd2000"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Jeremy%20Hybrd-blue?style=flat-square&logo=Youtube"></a>
+<a href="https://www.tiktok.com/@jeremyhybrd"><img alt="Tiktok" src="https://img.shields.io/badge/Tiktok-Jeremy%20Hybrd-blue?style=flat-square&logo=Tiktok"></a>
+<a href="mailto:jeremyhybrd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeremyhybrd@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [jeremy-nyabensi](https://github.com/V)
+⭐️ From [jeremy-nyabensi](https://github.com/jeremy-nyabensi)
